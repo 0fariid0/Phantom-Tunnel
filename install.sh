@@ -2,7 +2,7 @@
 
 set -e
 
-GITHUB_REPO="webwizards-team/Phantom-Tunnel"
+GITHUB_REPO="0fariid0/Phantom-Tunnel"
 EXECUTABLE_NAME="phantom"
 INSTALL_PATH="/usr/local/bin"
 SERVICE_NAME="phantom.service"
